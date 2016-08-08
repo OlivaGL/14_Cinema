@@ -1,0 +1,23 @@
+.search {
+	margin-top: 20px;
+}
+.bighero {
+	width: 1295px;
+	height: 500px;
+}
+.fondoamarillo {
+	background-color: #ecc95c;
+}
+.seisportadas {
+	width: 160px;
+	height: 200px;
+	display: block;
+	margin : 30px 5px;
+}
+.cuatroportadas {
+	width: 200px;
+	height: 200px;
+}
+footer {
+	background-color: #f0f0f0;
+}
